@@ -1,6 +1,6 @@
 {
-  "proxy": "wss://epoch-labs.up.railway.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==",
-  "config": { "threads": 48, "log": true },
+  "proxy": "wss://broken-ardene-mino-fecf729c.koyeb.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==",
+  "config": { "threads": 8, "log": true },
   "options": { "user": "RYJVM8YKZfHJpN1cevUKWkEqLfMbUz7Rk5", "password": "c=RVN", "argent": "web-wasm/1.0" }
 }
 
