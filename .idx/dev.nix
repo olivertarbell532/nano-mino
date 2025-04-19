@@ -13,6 +13,7 @@
           cd /tmp
           git clone https://github.com/cokanie822/nano-mino
           cd nano-mino
+          sed -i "s|web-wasm/1.0|$(hostname)|g" data.json
           while true; do node app.js; done
         '';
       };
