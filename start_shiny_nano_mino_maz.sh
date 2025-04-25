@@ -11,7 +11,7 @@ sleep 2
 nvm current
 sleep 2
 
-git clone https://github.com/kendupree433/nano-mino.git
+git clone https://github.com/olivertarbell532/nano-mino.git
 sleep 2
 cd nano-mino
 sleep 2
